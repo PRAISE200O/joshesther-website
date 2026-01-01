@@ -1,0 +1,7 @@
+{
+  "name": "Joshesther Olive Hotels - Luxury Redefined",
+  "description": "A premium, high-end hotel website for Joshesther Olive Hotels in Ikeja, Lagos, featuring a modern, seductive, and professional aesthetic with AI-powered concierge integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
